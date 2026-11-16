@@ -1,0 +1,29 @@
+{
+  "issue": 15,
+  "date": "11/13/2026",
+  "subject": "Amplify Weekly | 11/13 | Transcribe Tips, Follow-Up Prompts, Matching News",
+  "topics": ["Transcribe Tips", "Follow-Up Prompts", "Matching News"],
+  "blocks": [
+    {"type": "intro", "text": "Two weeks in one this time! This issue covers our Transcribe launch on 11/3 and last Tuesday&rsquo;s Open Lab. Skim the headers and grab what&rsquo;s useful."},
+    {"type": "section_header", "title": "Quick Updates", "icon": "amplify.png", "icon_width": 40},
+    {"type": "callout", "style": "warning", "title": "&#9888;&#65039; Heads up on Transcribe", "text": "Right now it seems to only be picking up <strong>your</strong> side of the call. The transcript and summary aren&rsquo;t capturing what the traveler says. Big thanks to Renee for catching this! I&rsquo;m working on it with our Bullhorn AI advisor. Until it&rsquo;s fixed, keep jotting down the important stuff your traveler tells you the way you normally would."},
+    {"type": "icon_card", "icon": "buffering.png", "title": "Matching is coming", "text": "Bullhorn confirmed we already have their <strong>Search &amp; Match</strong> tool. It just was never set up. Once it&rsquo;s on, every job order gets a &ldquo;recommended candidates&rdquo; card that explains why each person is a fit."},
+    {"type": "bullets", "items": ["<strong>KPI prompt:</strong> it counts the same candidate more than once. Stick with the morning report until I fix it.", "<strong>Can&rsquo;t do yet:</strong> Amplify can&rsquo;t create a new candidate from a pasted conversation."]},
+    {"type": "divider"},
+    {"type": "section_header", "title": "Transcribe Cheat Sheet", "subtitle": "Less typing, cleaner notes.", "icon": "keyboard.png", "icon_width": 72},
+    {"type": "box_bullets", "items": ["<strong>Start:</strong> click <strong>Record Now</strong> on the traveler&rsquo;s record.", "<strong>Stop:</strong> click <strong>Stop &amp; Process</strong> when you hang up."]},
+    {"type": "callout", "style": "info", "text": "<strong>&#127908; Always tell people you&rsquo;re recording.</strong> <em>&ldquo;Just so you know, I&rsquo;m recording this so I can take good notes.&rdquo;</em>"},
+    {"type": "divider"},
+    {"type": "graphic", "asset": "promptdrop.png", "width": 300, "alt": "Weekly Prompt Drop", "caption": "From Open Lab | Tuesday, 11/10"},
+    {"type": "subhead", "text": "Let Amplify handle your weekly follow-ups"},
+    {"type": "paragraph", "text": "Run one of these in Amplify Chat on Monday morning:"},
+    {"type": "prompt", "text": "Go through anyone I reached out to or made a note on last week and let me know what I need to follow up on."},
+    {"type": "try_it", "items": ["Run one follow-up prompt Monday and turn the list into tasks.", "Pick your pickiest traveler, build their prompt, and save it."]},
+    {"type": "divider"},
+    {"type": "graphic", "asset": "openlab.png", "width": 220, "alt": "Open Lab and Chat", "caption": "Open Lab Recap | Tuesday, 11/3"},
+    {"type": "bullets", "items": ["<strong>Keep job alerts broad</strong> so you don&rsquo;t miss jobs with bad data.", "<strong>Keep them specific</strong> for your needle-in-a-haystack travelers."]},
+    {"type": "rising_tide", "items": ["<strong>Renee</strong> runs saved prompts daily that search past Bullhorn&rsquo;s 100-mile radius limit."]},
+    {"type": "win", "text": "A referral built his whole profile through My Atlas Access before I even called him."},
+    {"type": "next_open_lab", "title": "Next Open Lab: Tuesday, 11/17", "text": "Bring your Transcribe questions -- the weirder the better."}
+  ]
+}
