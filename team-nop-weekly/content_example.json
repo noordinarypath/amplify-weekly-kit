@@ -1,0 +1,50 @@
+{
+ "date_long": "Friday, November 20",
+ "hello": [
+  "Happy Friday, Team NOP! &#128075;",
+  "I&rsquo;m switching to a quick weekly note so you always know what&rsquo;s going on without digging through a long monthly email. Here&rsquo;s this week."
+ ],
+ "news": [],
+ "new_people": [
+  {
+   "name": "Sam",
+   "specialty": "Peds"
+  }
+ ],
+ "welcome": "Join me in welcoming Sam!",
+ "roster": [
+  {
+   "name": "Alex",
+   "specialty": "ICU"
+  },
+  {
+   "name": "Jordan",
+   "specialty": "ER"
+  }
+ ],
+ "upcoming": [
+  {
+   "name": "Sam",
+   "specialty": "Peds"
+  }
+ ],
+ "pins": [
+  {
+   "label": "Denver, CO",
+   "lat": 39.74,
+   "lon": -104.99
+  },
+  {
+   "label": "Austin, TX",
+   "lat": 30.27,
+   "lon": -97.74
+  }
+ ],
+ "map_line": "You guys are all over the country right now. If you end up near another Team NOP traveler, let me know and I&rsquo;ll connect you. &#129392;",
+ "birthdays": [
+  {
+   "name": "Jordan",
+   "date": "December 2"
+  }
+ ]
+}
